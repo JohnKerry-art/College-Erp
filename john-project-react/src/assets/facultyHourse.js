@@ -19,7 +19,7 @@ export const facultyHourse = [
     },
     {
         id:1,
-        name: "Dr. M. SUDHARSAN",
+        name: "Dr.S. BRITTO RAMESH KUMAR",
         position: "ASSOCIATE PROFESSOR AND HEAD",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5AlXL5aRN56VufqTMiX8HD7GP8rACwn3Vw&s",
         educationImg: "https://ik.imagekit.io/johnkerry/College%20Project%20Image/drlA%20img.png?updatedAt=1739502726561",
